@@ -5,6 +5,7 @@ Le porgramme est simple, il suffit de brancher les cables suivants :
 
 Image a ajouter
 
+## Cablage
 a : 2
 b : 3
 c : 4
@@ -15,7 +16,4 @@ g : 8
 dp ou p : 9
 
 ## Rendu Sur Processing :
-
-Image a ajouter
-
 <img src="https://raw.githubusercontent.com/MaaxCoder/Arduino-Processing-7-Segments/main/Img/Processing_Windows.png" alt="Procesing Windows"/>
