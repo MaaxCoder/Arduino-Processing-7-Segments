@@ -14,7 +14,7 @@ e : 6
 f : 7
 g : 8
 dp ou p : 9
-<img src="https://raw.githubusercontent.com/MaaxCoder/Arduino-Processing-7-Segments/main/Img/Schema7Segments.jpg" alt="Image Cablage" float: right;>
+<img src="https://raw.githubusercontent.com/MaaxCoder/Arduino-Processing-7-Segments/main/Img/Schema7Segments.jpg" alt="Image Cablage">
 
 ## Rendu Sur Processing :
 <img src="https://raw.githubusercontent.com/MaaxCoder/Arduino-Processing-7-Segments/main/Img/Processing_Windows.png" alt="Procesing Windows"/>
